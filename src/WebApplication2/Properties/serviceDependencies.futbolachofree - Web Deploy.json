@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/dbfutbolachofree/databases/DbSqlSeverFutbolachoFree",
+      "type": "mssql.azure",
+      "connectionId": "WebApplication2ContextConnection",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
