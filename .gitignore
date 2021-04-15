@@ -1,3 +1,21 @@
 
 src/.vs/Futbolacho/config/applicationhost.config
 src/.vs/Futbolacho/v16/.suo
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Out/WebApplication2.deps.json
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Out/WebApplication2.deps.json
+*.dll
+*.exe
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Out/WebApplication2.runtimeconfig.json
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Out/WebApplication2.pdb
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Out/WebApplication2.deps.json
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Out/WebApplication2.Views.pdb
+*.pdb
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Out/web.config
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Out/Futbolacho.runtimeconfig.json
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Out/Futbolacho.deps.json
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Futbolacho.SourceManifest.xml
+src/WebApplication2/obj/Release/netcoreapp3.1/PubTmp/Futbolacho.Parameters.xml
+src/WebApplication2/obj/Release/netcoreapp3.1/PublishOutputs.167c37bf9d.txt
+src/WebApplication2/obj/Release/netcoreapp3.1/Futbolacho.deps.json
+*.cache
+src/WebApplication2/Properties/PublishProfiles/futbolachofree - Web Deploy.pubxml.user
