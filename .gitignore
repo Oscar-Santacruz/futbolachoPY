@@ -19,3 +19,8 @@ src/WebApplication2/obj/Release/netcoreapp3.1/PublishOutputs.167c37bf9d.txt
 src/WebApplication2/obj/Release/netcoreapp3.1/Futbolacho.deps.json
 *.cache
 src/WebApplication2/Properties/PublishProfiles/futbolachofree - Web Deploy.pubxml.user
+src/.sonarqube/
+.sonarqube/
+src/.vs/Futbolacho/config/applicationhost.config
+src/.vs/Futbolacho/DesignTimeBuild/.dtbcache.v2
+src/.vs/Futbolacho/v16/.suo
