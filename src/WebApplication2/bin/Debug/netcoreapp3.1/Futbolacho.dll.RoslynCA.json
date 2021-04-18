@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "3.9.0.0",
+        "fileVersion": "3.9.0-6.21123.28 (0ffb6577)",
+        "semanticVersion": "3.9.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS0006",
+          "level": "error",
+          "message": "No se encontró el archivo de metadatos 'C:\\Users\\PC2020\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\Google.Protobuf.dll'"
+        },
+        {
+          "ruleId": "CS0006",
+          "level": "error",
+          "message": "No se encontró el archivo de metadatos 'C:\\Users\\PC2020\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CFG.dll'"
+        },
+        {
+          "ruleId": "CS0006",
+          "level": "error",
+          "message": "No se encontró el archivo de metadatos 'C:\\Users\\PC2020\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll'"
+        },
+        {
+          "ruleId": "CS0006",
+          "level": "error",
+          "message": "No se encontró el archivo de metadatos 'C:\\Users\\PC2020\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.dll'"
+        },
+        {
+          "ruleId": "CS0006",
+          "level": "error",
+          "message": "No se encontró el archivo de metadatos 'C:\\Users\\PC2020\\AppData\\Local\\Temp\\.sonarqube\\resources\\1\\Google.Protobuf.dll'"
+        },
+        {
+          "ruleId": "CS0006",
+          "level": "error",
+          "message": "No se encontró el archivo de metadatos 'C:\\Users\\PC2020\\AppData\\Local\\Temp\\.sonarqube\\resources\\1\\SonarAnalyzer.dll'"
+        },
+        {
+          "ruleId": "CS0006",
+          "level": "error",
+          "message": "No se encontró el archivo de metadatos 'C:\\Users\\PC2020\\AppData\\Local\\Temp\\.sonarqube\\resources\\1\\SonarAnalyzer.VisualBasic.dll'"
+        }
+      ],
+      "rules": {
+        "CS0006": {
+          "id": "CS0006",
+          "defaultLevel": "error",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0006)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
