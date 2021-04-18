@@ -28,3 +28,6 @@ src/.vs/Futbolacho/v16/.suo
 *.dll
 src/.vs/Futbolacho/v16/.suo
 *.dll
+src/WebApplication2/bin/Release/netcoreapp3.1/Futbolacho.dll
+src/WebApplication2/bin/Release/netcoreapp3.1/Futbolacho.dll
+*.exe
